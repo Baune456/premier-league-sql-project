@@ -1,10 +1,10 @@
-# ⚽ Premier League Top Scorers – SQL Analysis Project
+# Premier League Top Scorers – SQL Analysis Project
 
 Et lille dataanalyseprojekt i PostgreSQL, hvor jeg indlæser og analyserer Premier League-topscorerdata fra sæsonen 2024/25.
 
 ---
 
-## 📦 Struktur
+## Struktur
 
 - `data/Premier_League_Top_Scorers.csv` – Datagrundlaget (topscorere, assists, skud m.m.)
 - `sql/create_table.sql` – Oprettelse af `top_scorers`-tabellen
@@ -13,7 +13,7 @@ Et lille dataanalyseprojekt i PostgreSQL, hvor jeg indlæser og analyserer Premi
 
 ---
 
-## 🧠 Eksempler på analyser
+## Eksempler på analyser
 
 ```sql
 -- 1. Top 5 målscorere
